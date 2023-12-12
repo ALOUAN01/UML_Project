@@ -45,6 +45,7 @@ Ces interactions ne représentent qu'une fraction des fonctionnalités de Facebo
   •	Administrateur
 ### Cas d'utilisation :
   •	S'inscrire sur Facebook : L'utilisateur non enregistré peut créer un compte sur Facebook.
+  
   •	Se connecter à Facebook : L'utilisateur enregistré peut se connecter à son compte.
   •	Publier une mise à jour : Les utilisateurs peuvent partager des messages, des photos, des vidéos, etc.
   •	Gérer le profil : Les utilisateurs peuvent modifier leurs informations de profil, ajouter des photos de profil, etc.

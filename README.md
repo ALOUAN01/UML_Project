@@ -79,7 +79,7 @@ Ces interactions ne représentent qu'une fraction des fonctionnalités de Facebo
 
 ![Screenshot 2023-12-08 212206](https://github.com/ALOUAN01/UML_Project/assets/137560003/871f2085-1066-434c-8f08-89b4ff0994e0)
 
-### Le scénario ‘S’inscrire’ 
+### Le scénario ‘Ajouter un amie’ 
 
 ![Screenshot 2023-12-08 213426](https://github.com/ALOUAN01/UML_Project/assets/137560003/4b92389b-6162-4d76-ad01-2e14fd9d6547)
 

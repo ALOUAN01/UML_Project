@@ -47,13 +47,23 @@ Ces interactions ne représentent qu'une fraction des fonctionnalités de Facebo
   •	S'inscrire sur Facebook : L'utilisateur non enregistré peut créer un compte sur Facebook.
   
   •	Se connecter à Facebook : L'utilisateur enregistré peut se connecter à son compte.
+  
   •	Publier une mise à jour : Les utilisateurs peuvent partager des messages, des photos, des vidéos, etc.
+  
   •	Gérer le profil : Les utilisateurs peuvent modifier leurs informations de profil, ajouter des photos de profil, etc.
+  
   •	Ajouter un ami : Les utilisateurs peuvent envoyer des demandes d'amitié et accepter ou refuser les demandes reçues.
+  
   •	Chat : Les utilisateurs peuvent communiquer en temps réel avec d'autres utilisateurs via la messagerie instantanée.
+  
   •	Rechercher des amis : Les utilisateurs peuvent rechercher d'autres utilisateurs et envoyer des demandes d'amitié.
+  
   •	Explorer le fil d'actualité : Les utilisateurs peuvent voir les mises à jour de leurs amis.
+  
   •	Gérer les paramètres de confidentialité : Les utilisateurs peuvent définir qui peut voir leurs informations.
+  
   •	Supprimer le compte : Les utilisateurs peuvent supprimer leur compte Facebook.
+  
   •	Modérer le contenu (pour l'administrateur) : L'administrateur peut modérer le contenu publié par les utilisateurs.
+  
 

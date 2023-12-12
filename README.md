@@ -29,7 +29,7 @@ Un utilisateur peut faire :
 ## •	Gestion du Compte :
 #### •	Les utilisateurs peuvent ajuster leurs paramètres de confidentialité.
 #### •	Il est possible de désactiver ou supprimer le compte.
-### •	Publicités et Pages :
+## •	Publicités et Pages :
 #### •	Les utilisateurs peuvent interagir avec des pages pour suivre des entreprises, des célébrités, etc.
 #### •	Les publicités ciblées sont affichées en fonction des préférences et du comportement de l'utilisateur.
 ## •	Réactions :

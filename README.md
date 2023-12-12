@@ -65,5 +65,8 @@ Ces interactions ne représentent qu'une fraction des fonctionnalités de Facebo
   •	Supprimer le compte : Les utilisateurs peuvent supprimer leur compte Facebook.
   
   •	Modérer le contenu (pour l'administrateur) : L'administrateur peut modérer le contenu publié par les utilisateurs.
+
+
+  ![Screenshot 2023-12-08 210336](https://github.com/ALOUAN01/UML_Project/assets/137560003/48b2e048-da6b-40f7-a6c6-4724982ae9c2)
   
 

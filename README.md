@@ -68,5 +68,7 @@ Ces interactions ne représentent qu'une fraction des fonctionnalités de Facebo
 
 
   ![Screenshot 2023-12-08 210336](https://github.com/ALOUAN01/UML_Project/assets/137560003/48b2e048-da6b-40f7-a6c6-4724982ae9c2)
-  
 
+  ## Diagramme de classe :
+  
+![Screenshot 2023-12-07 221106](https://github.com/ALOUAN01/UML_Project/assets/137560003/b4a459f6-52ba-45a4-80e8-3e7ff305e9ac)

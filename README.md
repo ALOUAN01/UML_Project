@@ -82,5 +82,5 @@ Ces interactions ne représentent qu'une fraction des fonctionnalités de Facebo
 ### Le scénario ‘Ajouter un amie’ 
 
 ![Screenshot 2023-12-08 213426](https://github.com/ALOUAN01/UML_Project/assets/137560003/4b92389b-6162-4d76-ad01-2e14fd9d6547)
-![image](https://github.com/ALOUAN01/UML_Project/assets/137560003/71c0251f-cba3-4dd8-a44f-0a8fc9cc6d2d)
+
 

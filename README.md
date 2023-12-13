@@ -18,7 +18,9 @@ Les notifications, des signaux amicaux, alertent les utilisateurs sur les demand
 
 Les publicités et pages élargissent l'horizon des utilisateurs, permettant des interactions riches avec des entreprises, des célébrités et bien plus encore. Les publicités ciblées ajoutent une touche personnalisée, reflétant les préférences et le comportement de l'utilisateur.
 
-Les réactions, exprimées à travers un éventail d'emojis, étoffent la palette des interactions, permettant aux utilisateurs de réagir de manière nuancée aux publications. Ces fonctionnalités ne représentent qu'une fraction de l'écosystème Facebook, une plateforme en constante évolution, façonnée par l'innovation pour répondre aux besoins changeants de ses utilisateurs. Chaque interaction, conçue avec soin, contribue à rendre l'expérience utilisateur aussi intuitive et engageante que possible.
+Les réactions, exprimées à travers un éventail d'emojis, étoffent la palette des interactions, permettant aux utilisateurs de réagir de manière nuancée aux publications.
+
+Ces fonctionnalités ne représentent qu'une fraction de l'écosystème Facebook, une plateforme en constante évolution, façonnée par l'innovation pour répondre aux besoins changeants de ses utilisateurs. Chaque interaction, conçue avec soin, contribue à rendre l'expérience utilisateur aussi intuitive et engageante que possible.
 
 ## Diagramme de cas d’utilisation 
 ### Acteurs principaux 
